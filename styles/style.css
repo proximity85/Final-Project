@@ -72,6 +72,10 @@ h2 {
     text-align: center;
   }
 
+  .btn-menu {
+    cursor: pointer;
+  }
+
   nav {
     display: none;
   }
